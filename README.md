@@ -20,5 +20,5 @@
 
 ### ![GitHub Streak](https://streak-stats.demolab.com?user=Jesusjha&theme=merko&date_format=j%20M%5B%20Y%5D&border=ABDD19)
 
-**Connect with me:**
-### [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/je-herrera/)
+**Connect with me:**</br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/je-herrera/)
