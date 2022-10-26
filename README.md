@@ -1,6 +1,6 @@
 ## Hi friends! My name is Jesús Herrera 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=600&color=BCF729&center=true&multiline=true&width=435&lines=I'm+Frontend+Developer;and+I+love+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Trispace&duration=2000&pause=300&center=true&multiline=true&width=450&height=90&lines=I'm+Frontend+Developer;and+I+love+React)](https://git.io/typing-svg)
 
 ###
 
