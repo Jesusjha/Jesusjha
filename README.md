@@ -1,7 +1,7 @@
 <div align='center'>
   <h1>Hi friends! My name is Jesús Herrera 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Trispace&duration=2000&pause=20&center=true&multiline=true&width=450&height=90&lines=I'm+Frontend+Developer;and+I+❤+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Trispace&duration=2000&pause=20&center=true&multiline=true&width=450&height=50&lines=I'm+Frontend+Developer;and+I+❤+React)](https://git.io/typing-svg)
 </div>
 
 ## 🤘🏻Languages I use
