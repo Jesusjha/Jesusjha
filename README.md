@@ -10,7 +10,7 @@
 ###
 
 ## 👌🏻Technologies & tools
-[![My Skills](https://skillicons.dev/icons?i=styledcomponents,bootstrap,vite,firebase,mysql,vscode,git,github&perline=4&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=styledcomponents,bootstrap,vite,firebase,mysql,vscode,git,github&perline=8&theme=light)](https://skillicons.dev)
 
 ## ✨My Stack
 [![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs&perline=4&themetheme=dark)](https://skillicons.dev)
